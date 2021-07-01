@@ -20,7 +20,7 @@ b = torch.randn((), device=device, dtype=dtype)
 c = torch.randn((), device=device, dtype=dtype)
 d = torch.randn((), device=device, dtype=dtype)
 
-learning_rate = 1e-6
+learning_rate = 1e-5
 
 # COMMAND ----------
 
